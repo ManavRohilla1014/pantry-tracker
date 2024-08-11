@@ -190,16 +190,16 @@ export default function Home() {
           <Dialog open={open} onClose={handleClose}>
             <DialogTitle>Contact Us</DialogTitle>
             <DialogContent sx={{ display: 'flex', justifyContent: 'center', gap: 2 }}>
-              <IconButton component="a" href="https://www.linkedin.com/in/im-abdulmoiz/" target="_blank" sx={{ color: '#0072b1' }}>
+              <IconButton component="a" href="https://www.linkedin.com/in/manav-rohilla-5834b7247/" target="_blank" sx={{ color: '#0072b1' }}>
                 <LinkedInIcon />
               </IconButton>
-              <IconButton component="a" href="https://github.com/Abdul-Moiz31" target="_blank" sx={{ color: '#333' }}>
+              <IconButton component="a" href="https://github.com/ManavRohilla1014" target="_blank" sx={{ color: '#333' }}>
                 <GitHubIcon />
               </IconButton>
-              <IconButton component="a" href="mailto:abdulmoiz3140@gmail.com" sx={{ color: '#d44638' }}>
+              <IconButton component="a" href="mailto:manavrohilla3@gmail.com" sx={{ color: '#d44638' }}>
                 <EmailIcon />
               </IconButton>
-              <IconButton component="a" href="https://leetcode.com/u/Abdul_Moiz1/" target="_blank" sx={{ color: '#FFA116' }}>
+              <IconButton component="a" href="https://leetcode.com/u/manavrohilla3/" target="_blank" sx={{ color: '#FFA116' }}>
                 <CodeIcon />
               </IconButton>
             </DialogContent>
